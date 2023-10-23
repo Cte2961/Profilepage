@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fawaz Profile Project</title>
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+  <body>
+    <div class="header">THE FEDERAL POLYTHECHNIC, ILARO OGUN STATE</div>
+    <div class="heroSection">
+      <div class="imgCont">
+        <img src="./fawaz.jpg" alt="fawazpic" />
+      </div>
+      <p style="font-weight: 700; font-size: 1.2rem;">OGUNLADE FAWAZ</p>
+      <p>Computer Engineering</p>
+    </div>
+    <div class="bio">
+      <hr width="100%" />
+      <div class="section">
+        <div class="title">About me</div>
+        <p>
+          I am curious, creative, and brave individual with a passion for
+          learning and exploring the world around me. I'm always up for a
+          challenge, and love to try new things.
+        </p>
+      </div>
+      <div class="section">
+        <div class="title">My hobbies</div>
+        <p>
+          I enjoy Reading, listening to music, Singing, Dancing, Making
+          research, playing games, watching movies, Travelling, playing soccer
+          and sports.
+        </p>
+      </div>
+      <div class="section">
+        <div class="title">My Favorite quote</div>
+        <p>
+          Always remember that you are absolutely unique. Just like everyone
+          else. It's a playfull and insightful way to remind yourself to keep
+          moving forward and be true to yourself.
+        </p>
+      </div>
+      <hr width="100%" />
+    </div>
+    <div class="contact">
+      <p class="hd">Contact Me</p>
+      <div class="content">
+        <div class="section">
+          <p class="title" id="cnt">Phone Details</p>
+          <p>09056322093</p>
+        </div>
+        <div class="section">
+          <p class="title" id="cnt">Email</p>
+          <p>ogunladefawaz@gmail.com</p>
+        </div>
+        <div class="section">
+          <p class="title" id="cnt">Social Media</p>
+          <div class="mediaCont">
+            <div class="media">
+                <img src="./facebook.jpg" alt="facebook">
+            </div>
+            <div class="media">
+                <img src="./twitter.png" alt="facebook">
+            </div>
+            <div class="media">
+                <img src="./instagram.jfif" alt="facebook">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer">Olatunbosun Design Copyright &copy; 2023</div>
+  </body>
+</html>
